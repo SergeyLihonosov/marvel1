@@ -1,0 +1,123 @@
+body{
+    background-color: maroon;
+}
+
+
+.r{
+    position: relative;
+    font-size: 30px;
+    font-family: arial black;
+    bottom: 250px;
+    left: 700px;
+}
+.a{
+   font-size: 30px; 
+   position: relative;
+   bottom: 180px;
+   font-family: arial black;
+   left: 50px;
+}
+.c{
+   font-size: 30px; 
+   position: relative;
+   bottom: 105px;
+   font-family: arial black;
+   left: 400px;
+}
+.b{
+    position: relative;
+    bottom: 250px;
+}
+.f{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 725px;
+    left: 310px;
+}
+.re{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 725px;
+    left: 310px;
+}
+.g{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 725px;
+    left: 310px;
+}
+.l{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 725px;
+    left: 310px;
+}
+.d{
+    position: relative;
+    bottom: 720px;
+}
+.e{
+    position: relative;
+    width: 400px;
+    bottom: 100px;
+    right: 905px;
+}
+.vrew{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 710px;
+    left: 400px;
+}
+.px{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 710px;
+    left: 400px;
+}
+.dada{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 710px;
+    left: 400px;
+}
+.sergey{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 710px;
+    left: 400px;
+}
+.er{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 710px;
+    left: 400px;
+}
+.q{
+    position: relative;
+    bottom: 600px;
+}
+.wq{
+    position: relative;
+    bottom: 150px;
+    right: 740px;
+}
+.fo{
+    font-family: monospace;
+    color: orange;
+    position: relative;
+    bottom: 620px;
+    left: 310px;
+}
+.t{
+    position: relative;
+    top: 250px;
+}
